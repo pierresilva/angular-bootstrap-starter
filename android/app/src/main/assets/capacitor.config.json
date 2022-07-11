@@ -1,0 +1,6 @@
+{
+  "appId": "com.angularstarter.app",
+  "appName": "Angular Starter",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
